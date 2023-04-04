@@ -1,0 +1,10 @@
+# 인증서 파일
+cert/*.crt
+cert/*.key
+cert/*.pem
+
+# nginx default config 파일 및 docker-compose 파일
+conf/conf.d/default.conf
+docker-compose.yml
+
+.DS_Store
