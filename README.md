@@ -4,10 +4,9 @@
 
 sdk들 사용하려면 https로 개발 해야 하는데 세팅하기 번거로우시죠?
 
-localhost 개발을 위한 HTTPS 프록시 서버를 사용해보세요.
+localhost 개발을 위한 https 프록시 서버를 5분 만에 띄워보세요.
 
 커맨드 몇 줄이면 바로 도커 서버가 실행됩니다. 
-
 
 
 <a href="HOWITWORKS.md">구조 이해하기</a>
