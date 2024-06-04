@@ -1,3 +1,11 @@
+# Go To ...
+
+이 프로젝트는 [여기](https://github.com/apilylabs/ophiuchi-desktop)로 이관되어 
+
+[Mac 데스크톱 앱](https://www.ophiuchi.dev) 으로 출시되었습니다. 
+
+---
+
 # local-dev-proxy
 
 내 컴퓨터에서만 사용할 SSL 인증서 발급하기 귀찮으시죠?
